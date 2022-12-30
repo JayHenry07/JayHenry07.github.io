@@ -1,8 +1,10 @@
+import { Landing } from './page';
+
 function App() {
   return (
-    <div>
-      Hello
-    </div>
+    <>
+      <Landing />
+    </>
   );
 }
 
