@@ -31,7 +31,7 @@ export const ProjectCard = ({ link, img, alt, title, role, width }) => {
         <CardLink target='_blank' href={link}>
             <Center><CardImage width={width} src={img} alt={alt} /></Center>
             <Center><CardTitle>{title}</CardTitle></Center>
-            <Center><CardRole>Role:{role}</CardRole></Center>
+            <Center><CardRole>Role: {role}</CardRole></Center>
         </CardLink>
     );
 }
