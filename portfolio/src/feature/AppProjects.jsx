@@ -56,7 +56,7 @@ export const AppProjects = () => {
                 />
                 <ProjectCard
                     link='https://bladedocs.com'
-                    img='../../public/bladedocs-app-icon.png'
+                    img='https://jayhenry07.github.io/bladedocs-app-icon.png'
                     alt='BladeDocs'
                     title='BladeDocs'
                     role='Sole Mobile Developer'
