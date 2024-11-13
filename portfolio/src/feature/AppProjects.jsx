@@ -55,7 +55,7 @@ export const AppProjects = () => {
                     width='60px'
                 />
                 <ProjectCard
-                    link='https://bladedocs.com'
+                    link='https://www.linkedin.com/company/bladedocs'
                     img='https://jayhenry07.github.io/bladedocs-app-icon.png'
                     alt='BladeDocs'
                     title='BladeDocs'
